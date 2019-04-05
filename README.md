@@ -8,7 +8,7 @@ is to create a test suit for the Shell project.
 you should get :
 `./shell: 1: qwerty: not found`
 2. when you type `crtl + c ` it should not crash your shell\
-expected output: `^[[C^`
+expected output: `^C`
 3. when you type `ctrl + d` your shell should be close
 4. if you type `ls -` or `ls +` you should get an error\
 `ls: cannot access -: No such file or directory`
