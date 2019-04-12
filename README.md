@@ -3,6 +3,21 @@
 This repository is created for Holberton School Colombia Students, the porpuose of this repository
 is to create a test suit for the Shell project.
 
+Some recommendations to contribute to the tests suit repo for the Shell Project:
+- Create a branch per team and work on your branch.
+- Give your branch the name of the members in your group, example:
+  "Robert-Martin".
+- Put your test cases inside a folder.
+- Give that folder a name that makes sense to everyone for instance:
+ "ShellTest-task_0.1_[your-branch-name]".
+  where the name of your folder should contain the number of task you're testing.
+- Create a Readme with a description that everyone can understand.
+- After you're done with your contribution open a pull request to the branch master, please set either Robert Sebastian, Abdel Giovanny or Andres Martin to review your merge request.  
+
+Remember this task is not mandatory, it's one of the advanced tasks, the idea is that everyone can contribute to the repository and earn extra points doing this task.
+If you have some doubts, don't hesitate to contact us.
+Have a great day!
+
 1. type this in your prompt
 `echo "qwerty" | ./shell`\
 you should get :
