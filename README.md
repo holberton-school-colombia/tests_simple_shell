@@ -1,9 +1,9 @@
 # tests_simple_shell
 
 This repository is created for Holberton School Colombia Students, the porpuose of this repository
-is to hold a test suit for the Shell project.
+is to hold a test suit for the Shell Project.
 
-Some recommendations to contribute to the tests suit repo for the Shell Project:
+Some recommendations to contribute to the tests suit repo:
 - Create a branch per team and work on your branch.
 - Give your branch the name of the members in your group, example:
   "Robert-Martin".
