@@ -12,6 +12,7 @@ Some recommendations to contribute to the tests suit repo:
  "ShellTest-task_0.1_[your-branch-name]".
   where the name of your folder should contain the number of task you're testing.
 - Create a Readme with a description that everyone can understand.
+- Create an AUTHORS file 
 - After you're done with your contribution open a pull request to the branch master, please set either Robert Sebastian, Abdel Giovanny or Andres Martin to review your merge request.  
 
 Remember this task is not mandatory, it's one of the advanced tasks, the idea is that everyone can contribute to the repository and earn extra points doing this task.
