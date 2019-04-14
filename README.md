@@ -11,7 +11,7 @@ Some recommendations to contribute to the tests suit repo:
 - Give that folder a name that makes sense to everyone for instance:
  "ShellTest-task_0.1_[your-branch-name]".
   where the name of your folder should contain the number of task you're testing.
-**UPDATE** 
+## **UPDATE** 
 Inside your script add some description that everyone can understand.
 - After you're done with your contribution open a pull request to the branch master, please set either Robert Sebastian, Abdel Giovanny or Andres Martin to review your merge request.  
 
