@@ -13,6 +13,7 @@ Some recommendations to contribute to the tests suit repo:
   where the name of your folder should contain the number of task you're testing.
 ## **UPDATE** 
 Inside your script add some description that everyone can understand.
+- Create an **AUTHORS** file 
 - After you're done with your contribution open a pull request to the branch master, please set either Robert Sebastian, Abdel Giovanny or Andres Martin to review your merge request.  
 
 Remember this task is not mandatory, it's one of the advanced tasks, the idea is that everyone can contribute to the repository and earn extra points doing this task.
@@ -34,3 +35,41 @@ expected output: `^C`
 ls && ls && ls
 ```
 it should execute `ls` command three times.
+
+## For Help command
+
+the help #advanced task, you need to implement the help command of sh
+Simple shell 1.0 +
+
+  - Implement the help built-in
+  - Usage: help [BUILTIN]
+  - Magic
+
+# Test
+
+The command
+-       help
+  - Display a usage message on standard output and exit successfully.
+
+Display example 
+
+
+      *MY SHELL HELP*
+        Some information about your shell
+        Bla Bla Bla
+        description of commands implemented
+        List of Commands supported:
+        >pwd
+        >ls
+        >exit
+        >etc 
+
+
+-       -help-
+  - should display nothing and [Your shell name]: 1: help: not found
+
+-       echo "help" | [Your executable file]
+  - Display a usage message on standard output and exit successfully.
+
+-       help [BUILD-IN]
+  - should display a message about your build-in function
