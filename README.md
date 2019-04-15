@@ -1,4 +1,4 @@
-# tests_simple_shell
+ts_simple_shell
 
 This repository is created for Holberton School Colombia Students, the porpuose of this repository
 is to hold a test suit for the Shell Project.
@@ -35,3 +35,4 @@ expected output: `^C`
 ls && ls && ls
 ```
 it should execute `ls` command three times.
+
