@@ -1,8 +1,21 @@
+
+# simple_shell
+Simple Shell for Holberton School project.
+
 ts_simple_shell
 
-This repository is created for Holberton School Colombia Students, the porpuose of this repository
-is to hold a test suit for the Shell Project.
 
+This command contains this code
+1 |#!/bin/bash
+2 |SHELL='./shell'
+3 |echo exit | $SHELL | wc -l | awk '{ if($1 == 0) print "ok"; else print "ko"}'
+
+Explanation:
+
+The first line is the shebang,
+The next line has a variable that indicate the file shell
+The last line has the bash script that allow validate the command exit of your shell, if is correct this print 'ok' otherwise print 'ko'
+=======
 Some recommendations to contribute to the tests suit repo:
 - Create a branch per team and work on your branch.
 - Give your branch the name of the members in your group, example:
@@ -35,4 +48,5 @@ expected output: `^C`
 ls && ls && ls
 ```
 it should execute `ls` command three times.
+
 
