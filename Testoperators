@@ -1,0 +1,15 @@
+#!/bin/bash
+#please put your name of your executable Shell program
+SHELL='./shell'
+MSG_PROMPT="Welcome, the next test is for validate you \"&& ||" of the Shell"
+echo $MSG_PROMPT
+echo "ls /var && ls /var" | $SHELL | wc -l > tmp
+#cat tmp
+echo "ls /var && ls /var" | \bin\bash | wc -l > tmp2
+#cat tmp2
+DIFF=$(diff tmp tmp2)
+if ["$DIF" != ""]; then
+    echo "Test Fail";
+else
+    echo "Test ok"
+fi
