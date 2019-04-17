@@ -1,0 +1,15 @@
+#!/bin/bash
+#please put your name of your executable Shell program
+SHELL='./shell'
+MSG_PROMPT="Welcome, the next test is for validate you \"comand ; command\" of the Shell"
+echo $MSG_PROMPT
+echo "ls;ls" | $SHELL | wc -l > tmp
+cat tmp
+echo "ls;ls" | sh | wc -l > tmp2
+cat tmp2
+DIFF=$(diff tmp tmp2)
+if ["$DIF" != ""]; then
+    echo "Test Ok";
+else
+    echo "Test Fail"
+fi
