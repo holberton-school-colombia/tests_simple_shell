@@ -1,0 +1,84 @@
+AUTHORS
+basic_bi.c
+docs
+engine.c
+env_func.c
+env.txt
+error.c
+expected_test1
+_getline.c
+#_getline.c#
+help_alias.txt
+help_cd.txt
+help_empty.txt
+help_env.txt
+help_exit.txt
+help_help.txt
+help_history.txt
+hsh
+#main.c#
+main.c
+Makefile
+man_1_simple_shell
+prueba
+prueba~
+prueba.c
+README.md
+shell.c
+shell_giovanny_haroldo_task1
+simple_shell.h
+string_op.c
+_strtok.c
+test1
+test_1
+test2
+test_2
+test2~
+tests_simple_shell
+AUTHORS
+basic_bi.c
+docs
+engine.c
+env_func.c
+env.txt
+error.c
+expected_test1
+_getline.c
+#_getline.c#
+help_alias.txt
+help_cd.txt
+help_empty.txt
+help_env.txt
+help_exit.txt
+help_help.txt
+help_history.txt
+hsh
+#main.c#
+main.c
+Makefile
+man_1_simple_shell
+prueba
+prueba~
+prueba.c
+README.md
+shell.c
+shell_giovanny_haroldo_task1
+simple_shell.h
+string_op.c
+_strtok.c
+test1
+test_1
+test2
+test_2
+test2~
+tests_simple_shell
+/home/vagrant/simple_shell
+/home/vagrant/simple_shell
+ 03:24:50 up  8:27,  2 users,  load average: 0.00, 0.01, 0.05
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+vagrant  pts/0    10.0.2.2         Wed04   28:09   0.64s  0.64s -bash
+vagrant  pts/1    10.0.2.2         Wed04    0.00s  0.45s  0.00s w
+ 03:24:50 up  8:27,  2 users,  load average: 0.00, 0.01, 0.05
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+vagrant  pts/0    10.0.2.2         Wed04   28:09   0.64s  0.64s -bash
+vagrant  pts/1    10.0.2.2         Wed04    0.00s  0.45s  0.00s w

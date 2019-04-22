@@ -1,0 +1,116 @@
+total 208
+drwxrwxr-x  6 vagrant vagrant  4096 Apr 22 03:26 .
+drwxr-xr-x 18 vagrant vagrant  4096 Apr 15 15:43 ..
+-rw-rw-r--  1 vagrant vagrant   209 Apr 15 14:17 AUTHORS
+-rw-rw-r--  1 vagrant vagrant  2841 Apr 17 18:21 basic_bi.c
+drwxrwxr-x  2 vagrant vagrant  4096 Apr 16 01:56 docs
+-rw-rw-r--  1 vagrant vagrant  3067 Apr 17 18:21 engine.c
+-rw-rw-r--  1 vagrant vagrant   858 Apr 14 00:36 env_func.c
+-rw-rw-r--  1 vagrant vagrant   425 Apr 15 14:58 env.txt
+-rw-rw-r--  1 vagrant vagrant  1090 Apr 17 18:23 error.c
+-rw-rw-r--  1 vagrant vagrant  1400 Apr 22 03:24 expected_test1
+-rw-rw-r--  1 vagrant vagrant     0 Apr 22 03:26 expected_test2
+-rw-rw-r--  1 vagrant vagrant  3359 Apr 17 18:21 _getline.c
+-rw-rw-r--  1 vagrant vagrant  3362 Apr 16 15:38 #_getline.c#
+drwxrwxr-x  8 vagrant vagrant  4096 Apr 22 02:56 .git
+-rw-rw-r--  1 vagrant vagrant    41 Apr 15 14:58 .gitignore
+-rw-rw-r--  1 vagrant vagrant    24 Apr  5 21:44 .gitignore~
+-rw-rw-r--  1 vagrant vagrant   504 Apr 15 14:58 help_alias.txt
+-rw-rw-r--  1 vagrant vagrant   440 Apr 15 14:58 help_cd.txt
+-rw-rw-r--  1 vagrant vagrant   785 Apr 15 14:58 help_empty.txt
+-rw-rw-r--  1 vagrant vagrant   557 Apr 15 14:58 help_env.txt
+-rw-rw-r--  1 vagrant vagrant   156 Apr 15 14:58 help_exit.txt
+-rw-rw-r--  1 vagrant vagrant   785 Apr 15 14:58 help_help.txt
+-rw-rw-r--  1 vagrant vagrant   143 Apr 15 14:58 help_history.txt
+-rwxrwxr-x  1 vagrant vagrant 37801 Apr 17 05:34 hsh
+-rw-rw-r--  1 vagrant vagrant  1486 Apr 16 19:11 #main.c#
+-rw-rw-r--  1 vagrant vagrant  1485 Apr 16 01:56 main.c
+-rw-rw-r--  1 vagrant vagrant    77 Apr 15 15:43 Makefile
+-rw-rw-r--  1 vagrant vagrant  5206 Apr 15 14:17 man_1_simple_shell
+-rw-rw-r--  1 vagrant vagrant    34 Apr 17 05:39 prueba
+-rw-rw-r--  1 vagrant vagrant    32 Apr 17 05:38 prueba~
+-rw-rw-r--  1 vagrant vagrant   254 Apr 15 15:38 prueba.c
+-rw-rw-r--  1 vagrant vagrant  3411 Apr 15 14:58 README.md
+-rw-rw-r--  1 vagrant vagrant  3058 Apr 17 18:21 shell.c
+drwxrwxr-x  2 vagrant vagrant  4096 Apr 22 03:14 shell_giovanny_haroldo_task1
+-rw-rw-r--  1 vagrant vagrant  1920 Apr 17 04:15 simple_shell.h
+-rw-rw-r--  1 vagrant vagrant  3136 Apr 17 04:15 string_op.c
+-rw-rw-r--  1 vagrant vagrant  2635 Apr 15 15:28 _strtok.c
+-rw-rw-r--  1 vagrant vagrant   135 Apr 22 03:17 test1
+-rw-rw-r--  1 vagrant vagrant    17 Apr 17 13:56 test_1
+-rw-rw-r--  1 vagrant vagrant   154 Apr 22 03:20 test2
+-rw-rw-r--  1 vagrant vagrant    40 Apr 17 13:58 test_2
+-rw-rw-r--  1 vagrant vagrant   135 Apr 22 03:19 test2~
+drwxrwxr-x  5 vagrant vagrant  4096 Apr 22 03:11 tests_simple_shell
+total 212
+drwxrwxr-x  6 vagrant vagrant  4096 Apr 22 03:26 .
+drwxr-xr-x 18 vagrant vagrant  4096 Apr 15 15:43 ..
+-rw-rw-r--  1 vagrant vagrant   209 Apr 15 14:17 AUTHORS
+-rw-rw-r--  1 vagrant vagrant  2841 Apr 17 18:21 basic_bi.c
+drwxrwxr-x  2 vagrant vagrant  4096 Apr 16 01:56 docs
+-rw-rw-r--  1 vagrant vagrant  3067 Apr 17 18:21 engine.c
+-rw-rw-r--  1 vagrant vagrant   858 Apr 14 00:36 env_func.c
+-rw-rw-r--  1 vagrant vagrant   425 Apr 15 14:58 env.txt
+-rw-rw-r--  1 vagrant vagrant  1090 Apr 17 18:23 error.c
+-rw-rw-r--  1 vagrant vagrant  1400 Apr 22 03:24 expected_test1
+-rw-rw-r--  1 vagrant vagrant  2572 Apr 22 03:26 expected_test2
+-rw-rw-r--  1 vagrant vagrant  3359 Apr 17 18:21 _getline.c
+-rw-rw-r--  1 vagrant vagrant  3362 Apr 16 15:38 #_getline.c#
+drwxrwxr-x  8 vagrant vagrant  4096 Apr 22 02:56 .git
+-rw-rw-r--  1 vagrant vagrant    41 Apr 15 14:58 .gitignore
+-rw-rw-r--  1 vagrant vagrant    24 Apr  5 21:44 .gitignore~
+-rw-rw-r--  1 vagrant vagrant   504 Apr 15 14:58 help_alias.txt
+-rw-rw-r--  1 vagrant vagrant   440 Apr 15 14:58 help_cd.txt
+-rw-rw-r--  1 vagrant vagrant   785 Apr 15 14:58 help_empty.txt
+-rw-rw-r--  1 vagrant vagrant   557 Apr 15 14:58 help_env.txt
+-rw-rw-r--  1 vagrant vagrant   156 Apr 15 14:58 help_exit.txt
+-rw-rw-r--  1 vagrant vagrant   785 Apr 15 14:58 help_help.txt
+-rw-rw-r--  1 vagrant vagrant   143 Apr 15 14:58 help_history.txt
+-rwxrwxr-x  1 vagrant vagrant 37801 Apr 17 05:34 hsh
+-rw-rw-r--  1 vagrant vagrant  1486 Apr 16 19:11 #main.c#
+-rw-rw-r--  1 vagrant vagrant  1485 Apr 16 01:56 main.c
+-rw-rw-r--  1 vagrant vagrant    77 Apr 15 15:43 Makefile
+-rw-rw-r--  1 vagrant vagrant  5206 Apr 15 14:17 man_1_simple_shell
+-rw-rw-r--  1 vagrant vagrant    34 Apr 17 05:39 prueba
+-rw-rw-r--  1 vagrant vagrant    32 Apr 17 05:38 prueba~
+-rw-rw-r--  1 vagrant vagrant   254 Apr 15 15:38 prueba.c
+-rw-rw-r--  1 vagrant vagrant  3411 Apr 15 14:58 README.md
+-rw-rw-r--  1 vagrant vagrant  3058 Apr 17 18:21 shell.c
+drwxrwxr-x  2 vagrant vagrant  4096 Apr 22 03:14 shell_giovanny_haroldo_task1
+-rw-rw-r--  1 vagrant vagrant  1920 Apr 17 04:15 simple_shell.h
+-rw-rw-r--  1 vagrant vagrant  3136 Apr 17 04:15 string_op.c
+-rw-rw-r--  1 vagrant vagrant  2635 Apr 15 15:28 _strtok.c
+-rw-rw-r--  1 vagrant vagrant   135 Apr 22 03:17 test1
+-rw-rw-r--  1 vagrant vagrant    17 Apr 17 13:56 test_1
+-rw-rw-r--  1 vagrant vagrant   154 Apr 22 03:20 test2
+-rw-rw-r--  1 vagrant vagrant    40 Apr 17 13:58 test_2
+-rw-rw-r--  1 vagrant vagrant   135 Apr 22 03:19 test2~
+drwxrwxr-x  5 vagrant vagrant  4096 Apr 22 03:11 tests_simple_shell
+On branch test
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	expected_test1
+	expected_test2
+	prueba
+	test1
+	test2
+	test_1
+	test_2
+	tests_simple_shell/
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch test
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	expected_test1
+	expected_test2
+	prueba
+	test1
+	test2
+	test_1
+	test_2
+	tests_simple_shell/
+
+nothing added to commit but untracked files present (use "git add" to track)

@@ -1,0 +1,12 @@
+*/Test 1 - non interactive mode
+*cat this file and pipe to your shell executable 
+*Task 1 - simple shell
+*
+/*
+
+ls -all
+ls -all
+git status
+git status
+ll
+ll
